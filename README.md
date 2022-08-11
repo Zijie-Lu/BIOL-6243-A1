@@ -1,2 +1,2 @@
-# BIOL-6243-A1
-The code space for Assignment 1
+# BIOL6243A1
+The coding space for Assignment 1, postgrad level
